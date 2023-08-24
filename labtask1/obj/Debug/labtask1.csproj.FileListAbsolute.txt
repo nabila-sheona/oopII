@@ -1,0 +1,8 @@
+D:\sophomore\labtask1\bin\Debug\labtask1.exe.config
+D:\sophomore\labtask1\bin\Debug\labtask1.exe
+D:\sophomore\labtask1\bin\Debug\labtask1.pdb
+D:\sophomore\labtask1\obj\Debug\labtask1.csproj.AssemblyReference.cache
+D:\sophomore\labtask1\obj\Debug\labtask1.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\labtask1\obj\Debug\labtask1.csproj.CoreCompileInputs.cache
+D:\sophomore\labtask1\obj\Debug\labtask1.exe
+D:\sophomore\labtask1\obj\Debug\labtask1.pdb

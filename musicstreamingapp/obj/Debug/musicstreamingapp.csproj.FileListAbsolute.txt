@@ -1,0 +1,8 @@
+D:\sophomore\musicstreamingapp\bin\Debug\musicstreamingapp.exe.config
+D:\sophomore\musicstreamingapp\bin\Debug\musicstreamingapp.exe
+D:\sophomore\musicstreamingapp\bin\Debug\musicstreamingapp.pdb
+D:\sophomore\musicstreamingapp\obj\Debug\musicstreamingapp.csproj.AssemblyReference.cache
+D:\sophomore\musicstreamingapp\obj\Debug\musicstreamingapp.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\musicstreamingapp\obj\Debug\musicstreamingapp.csproj.CoreCompileInputs.cache
+D:\sophomore\musicstreamingapp\obj\Debug\musicstreamingapp.exe
+D:\sophomore\musicstreamingapp\obj\Debug\musicstreamingapp.pdb

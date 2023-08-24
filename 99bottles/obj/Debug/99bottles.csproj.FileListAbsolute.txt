@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\99bottles\bin\Debug\99bottles.exe.config
+D:\sophomore\ooc2\99bottles\bin\Debug\99bottles.exe
+D:\sophomore\ooc2\99bottles\bin\Debug\99bottles.pdb
+D:\sophomore\ooc2\99bottles\obj\Debug\99bottles.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\99bottles\obj\Debug\99bottles.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\99bottles\obj\Debug\99bottles.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\99bottles\obj\Debug\99bottles.exe
+D:\sophomore\ooc2\99bottles\obj\Debug\99bottles.pdb
