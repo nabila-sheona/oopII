@@ -1,0 +1,11 @@
+D:\sophomore\ooc2\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\task\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\task\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\task\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\task\LAB4_B_210042111\bin\Debug\LAB4_B_210042111.exe.config
+D:\sophomore\ooc2\task\LAB4_B_210042111\bin\Debug\LAB4_B_210042111.exe
+D:\sophomore\ooc2\task\LAB4_B_210042111\bin\Debug\LAB4_B_210042111.pdb
+D:\sophomore\ooc2\task\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.exe
+D:\sophomore\ooc2\task\LAB4_B_210042111\obj\Debug\LAB4_B_210042111.pdb

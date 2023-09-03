@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\210042111_lab4\bin\Debug\210042111_lab4.exe.config
+D:\sophomore\ooc2\210042111_lab4\bin\Debug\210042111_lab4.exe
+D:\sophomore\ooc2\210042111_lab4\bin\Debug\210042111_lab4.pdb
+D:\sophomore\ooc2\210042111_lab4\obj\Debug\210042111_lab4.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\210042111_lab4\obj\Debug\210042111_lab4.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\210042111_lab4\obj\Debug\210042111_lab4.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\210042111_lab4\obj\Debug\210042111_lab4.exe
+D:\sophomore\ooc2\210042111_lab4\obj\Debug\210042111_lab4.pdb

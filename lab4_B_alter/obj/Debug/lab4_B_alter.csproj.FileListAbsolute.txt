@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\lab4_B_alter\bin\Debug\lab4_B_alter.exe.config
+D:\sophomore\ooc2\lab4_B_alter\bin\Debug\lab4_B_alter.exe
+D:\sophomore\ooc2\lab4_B_alter\bin\Debug\lab4_B_alter.pdb
+D:\sophomore\ooc2\lab4_B_alter\obj\Debug\lab4_B_alter.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\lab4_B_alter\obj\Debug\lab4_B_alter.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\lab4_B_alter\obj\Debug\lab4_B_alter.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\lab4_B_alter\obj\Debug\lab4_B_alter.exe
+D:\sophomore\ooc2\lab4_B_alter\obj\Debug\lab4_B_alter.pdb
