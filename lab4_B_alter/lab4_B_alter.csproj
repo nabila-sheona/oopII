@@ -47,7 +47,6 @@
     <Compile Include="horror.cs" />
     <Compile Include="Icalculation.cs" />
     <Compile Include="Movie.cs" />
-    <Compile Include="oldmovies.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="releasetime.cs" />

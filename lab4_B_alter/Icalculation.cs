@@ -8,6 +8,6 @@ namespace lab4_B_alter
 {
     public interface Icalculation
     {
-        double calcbill(double price);
+         double calcbill();
     }
 }

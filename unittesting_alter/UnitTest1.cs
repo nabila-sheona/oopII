@@ -12,6 +12,7 @@ namespace unittesting_alter
             Assert.IsTrue(trip.canTakeTrip());
         }
 
+
             [TestMethod]
             public void TestSatisfySevenSeaterForTakingTrip()
             {

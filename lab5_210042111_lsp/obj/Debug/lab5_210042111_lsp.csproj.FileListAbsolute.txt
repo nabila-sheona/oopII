@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\task\lab5_210042111_lsp\bin\Debug\lab5_210042111_lsp.exe.config
+D:\sophomore\ooc2\task\lab5_210042111_lsp\bin\Debug\lab5_210042111_lsp.exe
+D:\sophomore\ooc2\task\lab5_210042111_lsp\bin\Debug\lab5_210042111_lsp.pdb
+D:\sophomore\ooc2\task\lab5_210042111_lsp\obj\Debug\lab5_210042111_lsp.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\task\lab5_210042111_lsp\obj\Debug\lab5_210042111_lsp.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\task\lab5_210042111_lsp\obj\Debug\lab5_210042111_lsp.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\task\lab5_210042111_lsp\obj\Debug\lab5_210042111_lsp.exe
+D:\sophomore\ooc2\task\lab5_210042111_lsp\obj\Debug\lab5_210042111_lsp.pdb

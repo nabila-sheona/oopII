@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace lab4_B_alter
 {
     public enum genre{
-        horror, thriller, romance
+        horror, thriller, romance, other
     }
    
 }

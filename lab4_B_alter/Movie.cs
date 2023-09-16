@@ -16,17 +16,7 @@ namespace lab4_B_alter
 
         public int duration { get; set; }
 
-        public Movie(string title, genre genre, DateTime release, int duration)
-        {
-
-            this.title = title;
-            this.genre = genre;
-            this.release = release;
-            this.duration = duration;
-
-         
-          
-        }
+ 
 
 
 

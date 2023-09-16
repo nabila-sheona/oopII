@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\210042111_lab04_grpB\bin\Debug\210042111_lab04_grpB.exe.config
+D:\sophomore\ooc2\210042111_lab04_grpB\bin\Debug\210042111_lab04_grpB.exe
+D:\sophomore\ooc2\210042111_lab04_grpB\bin\Debug\210042111_lab04_grpB.pdb
+D:\sophomore\ooc2\210042111_lab04_grpB\obj\Debug\210042111_lab04_grpB.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\210042111_lab04_grpB\obj\Debug\210042111_lab04_grpB.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\210042111_lab04_grpB\obj\Debug\210042111_lab04_grpB.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\210042111_lab04_grpB\obj\Debug\210042111_lab04_grpB.exe
+D:\sophomore\ooc2\210042111_lab04_grpB\obj\Debug\210042111_lab04_grpB.pdb

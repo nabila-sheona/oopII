@@ -6,11 +6,23 @@ using System.Threading.Tasks;
 
 namespace lab4_B_alter
 {
-    public class romance: Icalculation
+    public class romance: Movie, Icalculation
     {
-        public double calcbill(double price)
+        double price = 5.0;
+        public double calcbill()
         {
             return price * .7;
+        }
+        public romance(string title, genre genre, DateTime release, int duration)
+        {
+
+            this.title = title;
+            this.genre = genre;
+            this.release = release;
+            this.duration = duration;
+
+
+
         }
     }
 }

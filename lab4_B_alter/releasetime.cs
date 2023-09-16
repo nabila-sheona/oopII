@@ -8,32 +8,48 @@ namespace lab4_B_alter
 {
     public class releasetime
     {
-       private Icalculation bill;
-        public double calculate(Movie movie)
+       
+        public Icalculation bill=null;
+        private genre genre;
+   
+        public releasetime(string title, genre genre, DateTime release, int duration)
         {
-            double baseprice = 5.0;
-            
-            if (movie.genre == genre.horror)
+           this.genre=genre;
+
+            if (genre == genre.horror)
             {
-                bill = new horror();
+                bill = new horror(title, genre, release, duration);
 
             }
-            else if (movie.genre == genre.romance)
+            else if (genre == genre.romance)
             {
-                bill = new romance();
+                bill = new romance(title, genre, release, duration);
             }
-            else if (movie.genre == genre.thriller)
+            else if (genre == genre.thriller)
             {
-                if (DateTime.Now.Year - movie.release.Year > 5)
-                {
-                    bill = new oldmovies();
-                }
-                else{
-                    bill = new thriller();
-                }
+                bill = new thriller(title, genre, release, duration);
             }
-            
-            return bill.calcbill(baseprice);
+          
+       
         }
     }
+    public class service
+    {
+       
+        public Icalculation m { get; set; }
+        public double price = 5.0;
+        public double calcbill()
+        {
+            return m.calcbill();
+
+
+        }
+        public service(Icalculation m)
+        {
+            this.m = m;
+        }
+
+
+    }
+
 }
