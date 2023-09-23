@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\task\alter_employeeapp\bin\Debug\alter_employeeapp.exe.config
+D:\sophomore\ooc2\task\alter_employeeapp\bin\Debug\alter_employeeapp.exe
+D:\sophomore\ooc2\task\alter_employeeapp\bin\Debug\alter_employeeapp.pdb
+D:\sophomore\ooc2\task\alter_employeeapp\obj\Debug\alter_employeeapp.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\task\alter_employeeapp\obj\Debug\alter_employeeapp.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\task\alter_employeeapp\obj\Debug\alter_employeeapp.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\task\alter_employeeapp\obj\Debug\alter_employeeapp.exe
+D:\sophomore\ooc2\task\alter_employeeapp\obj\Debug\alter_employeeapp.pdb

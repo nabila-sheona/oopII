@@ -1,0 +1,8 @@
+D:\sophomore\ooc2\task\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+D:\sophomore\ooc2\task\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+D:\sophomore\ooc2\task\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+D:\sophomore\ooc2\task\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+D:\sophomore\ooc2\task\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.SuggestedBindingRedirects.cache
+D:\sophomore\ooc2\task\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+D:\sophomore\ooc2\task\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+D:\sophomore\ooc2\task\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb

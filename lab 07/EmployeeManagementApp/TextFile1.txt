@@ -1,0 +1,14 @@
+﻿1. method overload, instead of it, try to use interface, 
+   separate class for report generation
+2, naming convention all ok
+3. violating srp, calculate, get salary, generate report solve: use interfaces for every method
+4. lack of error handling
+5. coupling between employee and geenrating class, which makes it less flexible
+6. duplication
+7. `outputPath` was not necessary, sql would have been better
+8. hereupper level module are dependnt on lower, which violates dip; like controller class, which controlas the emplou]yees here, there should be a separate class for employee task: database, salary
+
+
+task 2:
+removed just salary and used basalary
+method overload
